@@ -2,6 +2,10 @@
 
 <br/>
 
+![hero](https://github.com/srosama/Apple-Website/assets/117456465/34bcbdfc-5a40-40fe-b02a-8dc2ac3b7148)
+![](https://github.com/srosama/Apple-Website/assets/117456465/87917fef-d8e6-44d9-bab2-857f9b005f0f)
+![](https://github.com/srosama/Apple-Website/assets/117456465/2630c65e-5125-450f-b51d-00e0f46b45b3)
+![](https://github.com/srosama/Apple-Website/assets/117456465/85199292-140a-4064-a1d9-474fd83ecb16)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 - React.js
