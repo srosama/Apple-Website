@@ -15,8 +15,8 @@ function Navbar() {
     const [isToggle, setIsToggle] = useState(false);
     const [isSearch, setIsSearch] = useState(false);
 
-    const styleHeader = "w-full py-7 px-5 flex items-center justify-between sm:px-10";
-    const styleNav = "flex w-full max-w-screen-lg mx-auto items-center ";
+    const styleHeader = "static w-full py-7 px-5 flex items-center justify-between sm:px-10";
+    const styleNav = " sticky flex w-full max-w-screen-lg mx-auto items-center ";
     const styleNavItems = "flex flex-1 justify-center gap-5 max-sm:hidden sm:flex";
     const styleSearchMenu = "flex items-center gap-3 max-sm:justify-end max-sm:flex-1 max-sm:pr-3 ";
 
